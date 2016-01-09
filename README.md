@@ -1,10 +1,10 @@
 Drawscript
 ==========
+**The project isn't currently under active development.**
+
 Turn Illustrator shapes into graphics code - Obj-C, C++, JavaScript, Processing, ActionScript 3, JSON, raw bezier points.
 
 Download beta version: http://drawscri.pt
-
-This project will be opensourced once released final. I am currently looking for contributors and beta testers.
 
 Ping me if you are interested:
 Twitter: http://twitter.com/tomkrcha
